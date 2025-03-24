@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Archiwum | May Freigang</title>
+	<meta name="description" content="This website uses minimal energy!">
+	<meta name="author" content="May Freigang">
+
+	<link rel="icon" href="http://localhost:1313/icons/sun.svg">
+
+	
+	<link rel="stylesheet" href="http://localhost:1313/css/style.css"><meta property="og:title" content="Archiwum" />
+<meta name="twitter:title" content="Archiwum"/>
+
+<meta property="og:description" content="archive intro" />
+
+<meta name="twitter:description" content="archive intro"/>
+
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/pl/archives/" />
+
+<meta property="og:image" content="http://localhost:1313/icons/sun.svg" />
+<meta property="og:image:secure_url" content="http://localhost:1313/icons/sun.svg" />
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:image:width" content="300" />
+<meta property="og:image:height" content="300" />
+<meta name="twitter:card" content="summary"/><meta property="article:section" content="" />
+
+<meta property="og:site_name" content="May Freigang" />
+
+
+<meta property="article:author" content="May Freigang" />
+<meta name="citation_author" content="May Freigang">
+
+</head>
+<body id="archiwum">
+	
+	<header class="site-header">
+  <h1><a id="top" href="http://localhost:1313/pl/">May Freigang</a></h1>
+  <div class="subtitle">
+     <a href="http://localhost:1313/pl/power">Ta strona zasilana jest energią słoneczną co oznacza, że czasami może być niedostępna.      
+    </a>
+  </div>
+  <nav id="menu">
+    <div id="menu-s">
+       
+        <span id="m-btn">menu</span>
+    </div>
+    <ul id="menu-list">
+   
+    
+    
+         
+        <li class="">
+            <a href=" http://localhost:1313/pl/about/ " data-nav="about" >
+                <span>O nas</span>
+            </a>
+        </li>
+        
+        <li class="">
+            <a href=" /garden/ " data-nav="garden" >
+                <span>Garden</span>
+            </a>
+        </li>
+        
+        <li class="">
+            <a href=" /recipes/ " data-nav="recipes" >
+                <span>Recipes</span>
+            </a>
+        </li>
+        
+        <li class="">
+            <a href=" http://localhost:1313/pl/archives/ " data-nav="archive" >
+                <span>Archiwum</span>
+            </a>
+        </li>
+        
+       <li class="rss">
+            <a href='' target="_blank"><svg viewBox="0 0 80 80" class="icon"><title>Newsletter</title><path d="M4.95,13.14v55H74.33v-55Zm54.34,8.12L39.64,39.74,20,21.26ZM13.07,60V25.91l26.56,25,26.57-25V60Z"/></svg></a>
+            <a href="/feeds" type="application/atom+xml" rel="alternate" target="_blank"><svg viewBox="0 0 80 80" class="icon"><title>RSS Feed</title><circle cx="19.91" cy="58.23" r="6.86"/><path d="M67.89,65.72H55.7A41.86,41.86,0,0,0,13.89,23.91V11.73A54.06,54.06,0,0,1,67.89,65.72Z"/><path d="M48.93,65.72H36.75A22.88,22.88,0,0,0,13.89,42.87V30.68A35.08,35.08,0,0,1,48.93,65.72Z"/></svg></a>
+        </li>
+    </ul>
+</nav>
+ 
+</header>
+
+	
+<main id="archive-list">
+    <header>
+        <h1 class="entry-title">Archiwum</h1>
+    </header>
+    <div id="filters">
+        <div class="filter active desc" id="date">
+            Date
+        </div>
+
+        <div class="filter asc" id="title">
+            Title
+        </div>
+
+        <div class="filter asc" id="cat">
+            Theme
+        </div>
+    </div>
+
+    <ul>
+           
+    </ul>
+    
+</main>
+
+
+
+<script src="http://localhost:1313/js/tinysort.min.js"></script>
+<script>
+    var listElements = document.querySelectorAll('#archive-list ul li');
+    var filters = document.getElementsByClassName('filter');
+    for (var i = 0; i < filters.length; i++) {
+        filters[i].addEventListener('click', sort, false);
+    }
+
+    function sort() {
+        for (var j = 0; j < filters.length; j++) {
+            filters[j].classList.remove('active');
+        }
+        this.classList.add('active');
+        this.classList.toggle('desc');
+        this.classList.toggle('asc');
+        var type = (this).id;
+        switch (type) {
+            case "title":
+                tinysort(listElements, {
+                    selector: 'div.article-title a',
+                    attr: "title",
+                    order: (this.isAsc = !this.isAsc) ? 'asc' : 'desc'
+                });
+                break;
+            case "date":
+                tinysort(listElements, {
+                    selector: 'time.published',
+                    attr: 'datetime',
+                    order: (this.isAsc = !this.isAsc) ? 'asc' : 'desc'
+                });
+                break;
+            case "cat":
+                tinysort(listElements, {
+                    selector: '.category',
+                    order: (this.isAsc = !this.isAsc) ? 'asc' : 'desc'
+
+                });
+                break;
+        }
+    }
+</script>
+
+
+
+	<footer class="site-footer">
+    <div id=page-size>Rozmiar strony: <span id="size-value"> $PLACEHOLDER</span></div>
+    <div id=back-to-top><a id="" href="#top" title="Back to top"> ↑ </a></div>
+    <h2>
+        <a href="http://localhost:1313/">May Freigang</a>
+    </h2>
+    <div class="dashboard">
+        <ul class="grid">
+                       <li>
+                <h3>Info</h3>
+              
+            </li>
+            <li>
+                <h3>Contact</h3>
+                <p>
+                    &copy; May<br> email @ ...</p>
+
+                <div class="social">
+                    
+                    <a href="/feeds" type="application/atom+xml" rel="alternate" target="_blank"><svg viewBox="0 0 80 80" class="icon"><title>RSS Feed</title><circle cx="19.91" cy="58.23" r="6.86"/><path d="M67.89,65.72H55.7A41.86,41.86,0,0,0,13.89,23.91V11.73A54.06,54.06,0,0,1,67.89,65.72Z"/><path d="M48.93,65.72H36.75A22.88,22.88,0,0,0,13.89,42.87V30.68A35.08,35.08,0,0,1,48.93,65.72Z"/></svg></a>
+
+                    <a href="https://instagram.com/butch.bambi" target="_blank"><svg viewBox="0 0 80 80" class="icon"><title>Instagram</title><path d="M65.05,29.23c0,.56,0,1.12,0,1.68,0,17.1-13,36.8-36.8,36.8A36.54,36.54,0,0,1,8.44,61.91a26.68,26.68,0,0,0,3.12.16,25.9,25.9,0,0,0,16.06-5.53,13,13,0,0,1-12.09-9,16.28,16.28,0,0,0,2.44.2,13.67,13.67,0,0,0,3.4-.44A12.93,12.93,0,0,1,11,34.64v-.16a13,13,0,0,0,5.85,1.64,13,13,0,0,1-4-17.3A36.76,36.76,0,0,0,39.51,32.36a14.58,14.58,0,0,1-.32-3,12.95,12.95,0,0,1,22.38-8.85,25.45,25.45,0,0,0,8.21-3.12,12.9,12.9,0,0,1-5.69,7.13,25.93,25.93,0,0,0,7.45-2A27.79,27.79,0,0,1,65.05,29.23Z"/></svg></a>
+
+                    
+
+                    <a href='' target="_blank"><svg viewBox="0 0 80 80" class="icon"><title>Newsletter</title><path d="M4.95,13.14v55H74.33v-55Zm54.34,8.12L39.64,39.74,20,21.26ZM13.07,60V25.91l26.56,25,26.57-25V60Z"/></svg></a>
+                </div>
+                
+
+            </li>
+        </ul>
+    </div>
+</footer>
+
+	<script src="http://localhost:1313/js/script.js"></script>
+</body>
+</html>

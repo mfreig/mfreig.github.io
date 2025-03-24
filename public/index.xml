@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog it like it&#39;s 2005 </title>
+    <link>http://localhost:1313/</link>
+    <description>this is may&#39;s blog and it uses minimal energy!</description>
+    <generator>Hugo 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      
+      <enclosure url="http://localhost:1313/posts/my-first-post/images/dithers/test_dithered.png" type="image/png" length="8604" ></enclosure>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
+
+&lt;div class=&#34;article-img  vertical&#34;&gt;
+&lt;figure data-imgstate=&#34;dither&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/posts/my-first-post/images/dithers/test_dithered.png&#34; alt=&#39;Una borsa d’acqua calda giapponese detta yutampo, fatta di plastica rigida. Fonte: All About Japan. https://allabout-japan.com/en/article/6244/&#39; loading=&#34;lazy&#34;/&gt;&lt;/figure&gt;
+&lt;figcaption class=&#34;caption&#34;&gt;
+ Una borsa d’acqua calda giapponese detta yutampo, fatta di plastica rigida. Fonte: All About Japan. [https://allabout-japan.com/en/article/6244/](https://allabout-japan.com/en/article/6244/) 
+&lt;/figcaption&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/_index.ar/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/_index.ar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/_index.de/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/_index.de/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/_index.es/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/_index.es/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/_index.fr/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/_index.fr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/_index.it/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/_index.it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/_index.ko/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/_index.ko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/_index.nl/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/_index.nl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/_index.pl/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/_index.pl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/_index.pt/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/_index.pt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/_index.vn/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/_index.vn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>http://localhost:1313/archives/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/archives/</guid>
+      <description>&lt;p&gt;Archive page content&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Article Template: How to write articles and translations in Markdown for Hugo?</title>
+      <link>http://localhost:1313/article-template-how-to/</link>
+      
+      <enclosure url="" type="image/png" length="160" ></enclosure>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/article-template-how-to/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;A screenshot of the markdown file for this page.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#files&#34; &gt;Files&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#structure&#34; &gt;Structure&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#folder-name&#34; &gt;Creating a new article&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#index&#34; &gt;Index&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#comments-files&#34; &gt;Comments file&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#syntax&#34; &gt;Article Syntax&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#front-matter&#34; &gt;Front Matter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#rules&#34; &gt;Syntax rules&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#main-rules&#34; &gt;Main rules&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#internal-links&#34; &gt;Internal links&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#syntax-images&#34; &gt;Image shortcodes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#syntax-comments&#34; &gt;Comments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#translations&#34; &gt;Translations&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#translations-front-matter&#34; &gt;Translations front matter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#translations-internal-links&#34; &gt;Translations internal links&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#translations-meta&#34; &gt;Translations of site metadata&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;files&#34;&gt;Files&lt;/h2&gt;
+&lt;p&gt;Each articles lives in the folder &lt;code&gt;posts&lt;/code&gt; on Gitlab, with the following structure.&lt;/p&gt;
+&lt;h4 id=&#34;structure&#34;&gt;&lt;strong&gt;Structure&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Each post/article is a folder which contains:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the article in english (&lt;code&gt;index.md&lt;/code&gt;) or (&lt;code&gt;index.en.md&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;the translations (&lt;code&gt;index.lang.md&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;the images in the article (&lt;code&gt;images/&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;dithered versions of the images (&lt;code&gt;images/dithers/&lt;/code&gt;)&lt;/li&gt;
+&lt;li&gt;comments in various languages (&lt;code&gt;comments.en.md&lt;/code&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Example:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;how-to-build-a-low-tech-internet/
+├── comments.en.md
+├── images
+│   ├── air-jaldi-epostman.png
+│   ├── dithers
+│   │   ├── air-jaldi-epostman_dithered.png
+│   │   ├── freifunk-wifi-node_dithered.png
+│   │   ├── node-air-jaldi-network_dithered.png
+│   │   ├── node-spanish-guifi-network_dithered.png
+│   │   ├── node-tegola_dithered.png
+│   │   ├── sneakernet-on-rails_dithered.png
+│   │   ├── tegola-project-low-tech-internet_dithered.png
+│   │   ├── wifi-link_dithered.png
+│   │   └── wireless-links-spanish-guifi-network_dithered.png
+│   ├── freifunk-wifi-node.jpg
+│   ├── node-air-jaldi-network.png
+│   ├── node-spanish-guifi-network.png
+│   ├── node-tegola.jpg
+│   ├── sneakernet-on-rails.jpg
+│   ├── tegola-project-low-tech-internet.png
+│   ├── wifi-link.jpg
+│   └── wireless-links-spanish-guifi-network.jpg
+├── index.de.md
+├── index.en.md
+├── index.es.md
+└── index.fr.md
+&lt;/code&gt;&lt;/pre&gt;&lt;h4 id=&#34;folder-name&#34;&gt;&lt;strong&gt;Folder Name&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;To create on new article, be sure to create a new folder in &lt;code&gt;posts/&lt;/code&gt; with the name of the article, containing at least:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1 index file&lt;/li&gt;
+&lt;li&gt;1 comments file (see below)&lt;/li&gt;
+&lt;li&gt;1 &lt;code&gt;images/&lt;/code&gt; folder where your images will live.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To create an new page that isn&amp;rsquo;t an article, place the folder directly in &lt;code&gt;content/&lt;/code&gt; or in &lt;code&gt;content/about/&lt;/code&gt; for the about section.&lt;/p&gt;
+&lt;p&gt;By default, your folder name is the article slug. The slug should match the title, but with the following rules. Use &lt;code&gt;&amp;quot;-&amp;quot;&lt;/code&gt;instead of &lt;code&gt;&amp;quot; &amp;quot;&lt;/code&gt; spaces and &lt;strong&gt;don&amp;rsquo;t&lt;/strong&gt; include special character (no &lt;code&gt;,=;/%?! &amp;amp;.@&lt;/code&gt; etc.)&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;/posts/my-article-name/index.en.md
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;will become:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;https://solar.lowtechmagazine.com/YYYY/MM/my-article-name/ 
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;index&#34;&gt;&lt;strong&gt;Index&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The article content should be in a file named &lt;code&gt;index.lang.md&lt;/code&gt;. For an english article it would be &lt;code&gt;index.en.md&lt;/code&gt;, for french translation  &lt;code&gt;index.fr.md&lt;/code&gt;, etc.&lt;/p&gt;
+&lt;p&gt;Regarding the syntax of the index files see the &lt;a href=&#34;#syntax&#34; &gt;Syntax section below&lt;/a&gt;..&lt;/p&gt;
+&lt;h3 id=&#34;comments-files&#34;&gt;&lt;strong&gt;Comments file&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The comments should now be placed in a different file in the article folder. The different comments are separated by languages and will appear in the corresponding article version. Each comments files should be named &amp;ldquo;comments.lang.md&amp;rdquo;. So for english it would be &lt;code&gt;comments.en.md&lt;/code&gt;, for dutch  &lt;code&gt;comments.nl.md&lt;/code&gt;, etc.&lt;/p&gt;
+&lt;p&gt;The Comments will appear automatically at the end of the article, no need to add anything in the article file.&lt;/p&gt;
+&lt;p&gt;Regarding the syntax of the comments files see the &lt;a href=&#34;#syntax-comments&#34; &gt;Comments section below&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;output&#34;&gt;&lt;strong&gt;Output&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The folder should look like this at start:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;my-article-name/
+├── comments.en.md
+├── images/ 
+│   └── images goes here. 
+└── index.lang.md
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;syntax&#34;&gt;Syntax&lt;/h2&gt;
+&lt;p&gt;The syntax of the markdown file has a few changes and additions in Hugo, which we will go over in this section. The specific changes related to Translations can be found in the&lt;a href=&#34;#translations&#34; &gt;Translations section below&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;front-matter&#34;&gt;Front matter data&lt;/h2&gt;
+&lt;p&gt;The Front matter data at the top of each article should follow the following syntax:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Article Title&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;date&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;2015-10-26&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;summary&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Article Summary&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;lang&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;authors&lt;/span&gt;: [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Kris De Decker&amp;#34;&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;categories&lt;/span&gt;: [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Low-tech Solutions&amp;#34;&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;tags&lt;/span&gt;: [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;tag&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;tag2&amp;#34;&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;translators&lt;/span&gt;: [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;featured_image&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;image.png&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;draft&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;false&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;!Do not forget the &lt;code&gt;---&lt;/code&gt; at the first and last line of the front matter!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Date should use the following YYYY-MM-DD syntax.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;date&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;2015-10-26&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;Language should be using on the following: en (english), nl (dutch), fr (french) pl (polish), pt (portuguese), es (spanish), de (german), it (italian ), vn (vietnamese), ar (arabic), ko (korean).
+To add a different language translations changes in the config file are necessary.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;lang&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;The authors, tags and translators fields support several entry, using this syntax:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;authors&lt;/span&gt;: [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Kris De Decker&amp;#34;&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;authors&lt;/span&gt;: [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Kris De Decker&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Roel Roscam Abbing&amp;#34;&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;tags&lt;/span&gt;: [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;ICT&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;transportation&amp;#34;&lt;/span&gt;] 
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;The correct spelling for categories is:
+&lt;code&gt;&amp;quot;Low-tech Solutions&amp;quot;&lt;/code&gt; (Blue), &lt;code&gt;&amp;quot;High-tech Problems&amp;quot;&lt;/code&gt; (Red),  &lt;code&gt;&amp;quot;Obsolete Technology&amp;quot;&lt;/code&gt; (Green),  &lt;code&gt;&amp;quot;About&amp;quot;&lt;/code&gt; or &lt;code&gt;&amp;quot; &amp;quot;&lt;/code&gt; (BW)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;categories&lt;/span&gt;: [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Low-tech Solutions&amp;#34;&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;The featured image will appear as a thumbnail on the category page. Make sure the image is placed inside the &lt;code&gt;images/&lt;/code&gt; folder. Do not include the file path, just the image with the correct extension (.png, .jpg).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;featured_image&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;image.png&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;draft: false&lt;/code&gt; is the default. Setting this to &lt;code&gt;draft: true&lt;/code&gt; will not generate the article. It will not be visible on the site anymore, only on gitlab.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;draft&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;false&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Always include at least:&lt;/strong&gt;&lt;/em&gt; &lt;code&gt;title: &amp;quot;&amp;quot;, date: &amp;quot;&amp;quot;, summary: &amp;quot;Article Summary&amp;quot;, lang: &amp;quot;en&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Other metadata fields are available:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;slug: &amp;quot;&amp;quot;&lt;/code&gt; : By default, the slug is the filename but you can overwrite this by adding a slug.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;slug&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;this-is-a-slug&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;unlisted: true&lt;/code&gt; : Include this field to mark the article as unlisted: it will still be accessible via the url but won&amp;rsquo;t be listed in the index page.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;unlisted&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;true&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;translators: [&amp;quot;&amp;quot;]&lt;/code&gt; : see &lt;a href=&#34;#translations&#34; &gt;Translations section below&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;translators&lt;/span&gt;: [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;rules&#34;&gt;Syntax Rules&lt;/h2&gt;
+&lt;p&gt;The rest of of the document uses &lt;a href=&#34;https://www.markdownguide.org/cheat-sheet&#34; target=&#34;_blank&#34; &gt;regular markdown syntax&lt;/a&gt;, with a few exception. Markup conventions as follows:&lt;/p&gt;
+&lt;h3 id=&#34;main-rules&#34;&gt;&lt;strong&gt;Main rules&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;## Big headers are h2&lt;/code&gt; and render as:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;big-headers-are-h2&#34;&gt;(Big headers are h2)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;### Sub-header are h3&lt;/code&gt; and render as:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;sub-header-are-h3&#34;&gt;Sub-header are h3&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;&amp;gt; Quotes&lt;/code&gt; render as:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Quotes&lt;/p&gt;&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;* Lists&lt;/code&gt; /  &lt;code&gt; - Lists&lt;/code&gt; render as this list.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Footnote references&lt;/em&gt; use this syntax: &lt;code&gt;[^number]&lt;/code&gt; and render as &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Footnotes&lt;/em&gt; appear the bottom of the document. The syntax is &lt;code&gt;[^1]: text&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;[Hyperlinks](url)&lt;/code&gt; linking to other websites render as: &lt;a href=&#34;url&#34; &gt;Hyperlinks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;internal-links&#34;&gt;&lt;strong&gt;Internal Links&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To link to other articles on the solar website, we use a hugo specific shortcode to call the article folder. This has several advantages:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The url will not break if the article slug changes, since we are calling the file itself.&lt;/li&gt;
+&lt;li&gt;We don&amp;rsquo;t need to change the url when translating an article, it&amp;rsquo;s automatic: see &lt;a href=&#34;#translations-internal-links&#34; &gt;translations section&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Shortcode is written as follow and looks like this:&lt;/em&gt; &lt;a href=&#34;http://localhost:1313/&#34; &gt;Text&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;Text&lt;/span&gt;]({{&amp;lt; &lt;span style=&#34;color:#a6e22e&#34;&gt;ref&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/path-to-folder&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;/*&lt;/span&gt;&amp;gt;}})
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The file path should start from within the content folder and link to the article or page folder, not the slug!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Examples:&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;Donate&lt;/span&gt;]({{&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;/*&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;ref&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/donate&amp;#34;&lt;/span&gt; &amp;gt;}})
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;here&lt;/span&gt;]({{&amp;lt; &lt;span style=&#34;color:#a6e22e&#34;&gt;ref&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/posts/power-water-networks/&amp;#34;&lt;/span&gt; &amp;gt;}})
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;To link to a section in the article&lt;/em&gt; (render as: &lt;a href=&#34;#section&#34; &gt;Link to section&lt;/a&gt;.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;Link&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;to&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Section&lt;/span&gt;](&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;#&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;section&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;###&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Section&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Header&lt;/span&gt;{&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;#&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;section&lt;/span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;syntax-images&#34;&gt;Images shortcodes&lt;/h2&gt;
+&lt;p&gt;Images now use specific shortcodes instead of the classic markdown syntax. This allows t include a toggle linking to the original images and to embed the caption within the image and better control its styling.&lt;/p&gt;
+&lt;p&gt;The shortcode is written:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{&lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;figure&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;src&lt;/span&gt;=&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;image-1.png&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt;}} 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;Here&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;goes&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;the&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;image&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;caption&lt;/span&gt;. 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;You&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;can&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;include&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;footnotes&lt;/span&gt; [^&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;], 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;Hyperlinks&lt;/span&gt;](&lt;span style=&#34;color:#a6e22e&#34;&gt;https&lt;/span&gt;:&lt;span style=&#34;color:#75715e&#34;&gt;//solar.lowtechmagazine.com), &lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;and&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;regular&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;__markdown__&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;syntax&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{&lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;figure&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;%&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;and render as:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;This is an image of the shortcode that generated it. You can include footnotes &lt;sup id=&#34;fnref1:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;,
+&lt;a href=&#34;https://solar.lowtechmagazine.com&#34; target=&#34;_blank&#34; &gt;Hyperlinks&lt;/a&gt;,
+and &lt;em&gt;regular&lt;/em&gt; &lt;strong&gt;markdown&lt;/strong&gt; syntax.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Captions are handy to include sources and additional info but are also useful for screen-readers users (people who cannot see images). Describing the image is thoughtful of them.&lt;/p&gt;
+&lt;p&gt;To render uncompressed images (not dithered and not compressed in &lt;code&gt;.webp&lt;/code&gt;), use the normal markdown syntax. This comes in handy for comic pages, for example. Please pre-compress the images to prevent overcrowding the server with big files.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;![&lt;span style=&#34;color:#f92672&#34;&gt;here goes your alt text&lt;/span&gt;](&lt;span style=&#34;color:#a6e22e&#34;&gt;image-filename.png&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;syntax-comments&#34;&gt;Comments&lt;/h2&gt;
+&lt;p&gt;Comments are now added in a dedicated &lt;code&gt;comments.lang.md&lt;/code&gt; file, as explained above.
+The file should start with the following lines:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Each comment is then added:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{&amp;lt; &lt;span style=&#34;color:#a6e22e&#34;&gt;comment&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;name&lt;/span&gt;=&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Name&amp;#34;&lt;/span&gt; &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;This&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;is&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;the&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;comment&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;text&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;{{&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;comment&lt;/span&gt; &amp;gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Check out the result &lt;a href=&#34;#comments-title&#34; &gt;at the bottom&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;translations&#34;&gt;Translations&lt;/h2&gt;
+&lt;p&gt;To translate an article in a different language, another &lt;code&gt;index.lang.md&lt;/code&gt; file should be created in the article folder as detailed above.&lt;/p&gt;
+&lt;h3 id=&#34;translations-front-matter&#34;&gt;&lt;strong&gt;Front matter&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Not all front matter should be translated, or the website might give an error.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Front-matter that should be translated:&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Translate the title&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;date&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;YYYY-MM-DD&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;#of the translation&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;summary&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Translate the Article Summary&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;lang&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;#add the language code (fr, nl, etc.)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;translators&lt;/span&gt;: [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;add translator name&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;other translator&amp;#34;&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Front matter that shouldn&amp;rsquo;t change, no matter the language:&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;authors&lt;/span&gt;: [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Kris De Decker&amp;#34;&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;categories&lt;/span&gt;: [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Low-tech Solutions&amp;#34;&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;tags&lt;/span&gt;: [&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;tag&amp;#34;&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;tag2&amp;#34;&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;featured_image&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;image.png&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;draft&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;false&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;translations-internal-links&#34;&gt;&lt;strong&gt;Internal Links&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;When linking to articles on the website, the shortcode will handle directing to the correct translation automatically:&lt;/p&gt;
+&lt;p&gt;On a french article &lt;code&gt;index.fr.md&lt;/code&gt; the link will redirect to the french &lt;a href=&#34;http://localhost:1313/fr/donate&#34; &gt;donate&lt;/a&gt; page.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;Donate&lt;/span&gt;]({{&amp;lt; &lt;span style=&#34;color:#a6e22e&#34;&gt;ref&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/donate&amp;#34;&lt;/span&gt; &amp;gt;}})
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Another example: this article &lt;a href=&#34;&#34; &gt;Bring back the Horses&lt;/a&gt;  isn&amp;rsquo;t yet available in dutch. The shortcode below in a `index.nl.md_ file would lead to the english version, until the dutch translation is available:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;Bring&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;back&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;the&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Horses&lt;/span&gt;]({{&amp;lt; &lt;span style=&#34;color:#a6e22e&#34;&gt;ref&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/posts/bring-back-the-horses&amp;#34;&lt;/span&gt; &amp;gt;}})
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;translations-meta&#34;&gt;&lt;strong&gt;Translating Site Metadata&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Another thing that needs to be translated is the many metadata words used in the website. Such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Translated by&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Written by&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;View Original Image / View Dithered Image&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Subscribe to our Newsletter&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This metadata is stored in configuration files called &lt;code&gt;lang.toml&lt;/code&gt; (&lt;code&gt;pl.toml&lt;/code&gt;, &lt;code&gt;fr.toml&lt;/code&gt;, etc.). Find this folder in &lt;code&gt;solar &amp;gt; i18n &amp;gt; lang.toml&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The syntax is (here for &lt;code&gt;nl.toml&lt;/code&gt;):&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-toml&#34; data-lang=&#34;toml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;pagesize&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#a6e22e&#34;&gt;other&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Fill in here the word for page size&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;written_by&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#a6e22e&#34;&gt;other&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Door&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;translated_by&lt;/span&gt;]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#a6e22e&#34;&gt;other&lt;/span&gt; = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;Vertaald door&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The &lt;code&gt;[key]&lt;/code&gt; should not be changed and be the same in every language.&lt;/p&gt;
+&lt;p&gt;The most complete files are the french (&lt;code&gt;fr.toml&lt;/code&gt;) and dutch (&lt;code&gt;nl.toml&lt;/code&gt;) one, refer to those to know what expressions need translation. Untranslated expressions will default back to english.&lt;/p&gt;
+&lt;p&gt;Please reach out &lt;em&gt;marie @ verdeil . net&lt;/em&gt; if you have any remaining questions.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Footnotes appear here the bottom of the document.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref1:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contributors</title>
+      <link>http://localhost:1313/contributors/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contributors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feeds</title>
+      <link>http://localhost:1313/feeds/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/feeds/</guid>
+      <description>&lt;p&gt;We provide multiple feeds for feed readers. There is one feed for each language.&lt;/p&gt;
+&lt;h2 id=&#34;arabic&#34;&gt;Arabic&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/ar/posts/index.xml&#34; &gt;Arabic full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;dutch&#34;&gt;Dutch&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nl/posts/index.xml&#34; &gt;Dutch full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;english&#34;&gt;English&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/index.xml&#34; &gt;English full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;french&#34;&gt;French&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/fr/posts/index.xml&#34; &gt;French full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;german&#34;&gt;German&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/de/posts/index.xml&#34; &gt;German full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;italian&#34;&gt;Italian&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/it/posts/index.xml&#34; &gt;Italian full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;korean&#34;&gt;Korean&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/ko/posts/index.xml&#34; &gt;Korean full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;polish&#34;&gt;Polish&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pl/posts/index.xml&#34; &gt;Polish full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;portuguese&#34;&gt;Portuguese&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pt/posts/index.xml&#34; &gt;Portuguese full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;spanish&#34;&gt;Spanish&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/es/posts/index.xml&#34; &gt;Spanish full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;vietnamese&#34;&gt;Vietnamese&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/vn/posts/index.xml&#34; &gt;Vietnamese full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Not Found</title>
+      <link>http://localhost:1313/404/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/404/</guid>
+      <description>&lt;p&gt;It seems that something went wrong&amp;hellip;. Some posts may have been moved and this link has not been updated yet. Or maybe this article isn&amp;rsquo;t yet translated?&lt;/p&gt;
+&lt;p&gt;Please consult our &lt;a href=&#34;http://localhost:1313/archives/&#34; &gt;archives&lt;/a&gt; to quickly find back all content.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Power</title>
+      <link>http://localhost:1313/power/</link>
+      
+      <enclosure url="" type="image/png" length="160" ></enclosure>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/power/</guid>
+      <description>&lt;p&gt;The site is statically generated, so every page is a simple html file that I generate whenever I update the site. Images are dithered with &lt;a href=&#34;https://github.com/hbldh/hitherdither&#34; target=&#34;_blank&#34; &gt;hitherdither&lt;/a&gt; to save space &amp;amp; power, you can choose to view the full image by clicking on the little icon in the caption.&lt;/p&gt;
+&lt;p&gt;The original Low Tech Magazine runs on solar power and is on- or offline depending its battery load! &lt;a href=&#34;https://lowtechmagazine.com&#34; target=&#34;_blank&#34; &gt;Go check it out!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This website looks best in &lt;a href=&#34;https://tinytype.co/type/tiny-grotesk&#34; target=&#34;_blank&#34; &gt;Tiny Grotesk&lt;/a&gt; by Robin Mientjes. I haven&amp;rsquo;t included it to save energy but you should totally consider buying it!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>&lt;p&gt;Example of server logs below:&lt;/p&gt;
+&lt;p&gt;109.69.14.162 - - [13/Sep/2018:01:59:35 +0200] &amp;ldquo;GET
+/dithers/heated-sock.png HTTP/2.0&amp;rdquo; 200 30190
+&amp;ldquo;&lt;a href=&#34;https://solar.lowtechmagazine.com/category/low-tech-solutions2.html%22&#34; target=&#34;_blank&#34; &gt;https://solar.lowtechmagazine.com/category/low-tech-solutions2.html&#34;&lt;/a&gt;
+&amp;ldquo;Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko)
+Chrome/65.0.3325.183 Safari/537.36 Vivaldi/1.96.1147.55&amp;rdquo;
+109.69.14.162 - - [13/Sep/2018:01:59:35 +0200] &amp;ldquo;GET
+/dithers/XYZ-cargo-Trike.png HTTP/2.0&amp;rdquo; 200 45829
+&amp;ldquo;&lt;a href=&#34;https://solar.lowtechmagazine.com/category/low-tech-solutions2.html%22&#34; target=&#34;_blank&#34; &gt;https://solar.lowtechmagazine.com/category/low-tech-solutions2.html&#34;&lt;/a&gt;
+&amp;ldquo;Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko)
+Chrome/65.0.3325.183 Safari/537.36 Vivaldi/1.96.1147.55&amp;rdquo;
+109.69.14.162 - - [13/Sep/2018:01:59:35 +0200] &amp;ldquo;GET
+/dithers/fireless-cooker-in-kitchen.png HTTP/2.0&amp;rdquo; 200 44844
+&amp;ldquo;&lt;a href=&#34;https://solar.lowtechmagazine.com/category/low-tech-solutions2.html%22&#34; target=&#34;_blank&#34; &gt;https://solar.lowtechmagazine.com/category/low-tech-solutions2.html&#34;&lt;/a&gt;
+&amp;ldquo;Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko)
+Chrome/65.0.3325.183 Safari/537.36 Vivaldi/1.96.1147.55&amp;rdquo;
+109.69.14.162 - - [13/Sep/2018:01:59:36 +0200] &amp;ldquo;GET /favicon.ico
+HTTP/2.0&amp;rdquo; 200 6481
+&amp;ldquo;&lt;a href=&#34;https://solar.lowtechmagazine.com/category/low-tech-solutions2.html%22&#34; target=&#34;_blank&#34; &gt;https://solar.lowtechmagazine.com/category/low-tech-solutions2.html&#34;&lt;/a&gt;
+&amp;ldquo;Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko)
+Chrome/65.0.3325.183 Safari/537.36 Vivaldi/1.96.1147.55&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Translators</title>
+      <link>http://localhost:1313/translators/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/translators/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

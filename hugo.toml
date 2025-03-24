@@ -1,0 +1,9 @@
+baseURL = 'https://mayfreigang.com/'
+languageCode = 'en-us'
+title = "blog it like it's 2005"
+theme = 'solar_v2'
+subtitle = "..."
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

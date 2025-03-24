@@ -1,0 +1,25 @@
+{{ define "main" }} {{ $categoryTitle := .Title }} {{ $categoryDescription := ' ' }} 
+{{ if (eq .Data.Term "Garden") }} {{ $categoryTitle = i18n "garden" }} 
+{{ $categoryDescription = i18n "gardendescription" | default "Oops. Empty." }}
+{{ else if (eq .Data.Term "Recipes")}} {{ $categoryTitle = i18n "recipes" }} {{ $categoryDescription = i18n "recipesdescription" | default "..." }}
+{{ else if (eq .Data.Term "Obsolete Technology")}} {{ $categoryTitle = i18n "obsoletetitle" }} {{ $categoryDescription = i18n "obsoletedescription" | default "There is a lot of potential in past and often forgotten knowledge and technologies when it comes to designing a sustainable society." }} 
+{{ else if (eq .Data.Term "About")}} {{ $categoryTitle = i18n "about" }} {{ $categoryDescription = i18n "aboutdescription" | default "" }}{{ end }}
+<main class="article-list">
+    <header>
+        {{ if (eq .Data.Singular "author")}} {{ i18n "written_by" | default "Written by"}} {{ else if (eq .Data.Singular "translator")}} {{ i18n "translated_by" | default "Translated by"}} {{ else if (eq .Data.Singular "tag")}} {{ i18n "theme" | default "Theme"}}{{ end }}
+        <h1 class="entry-title">{{ $categoryTitle | default .Title }}</h1>
+        {{ if not (eq $categoryDescription ' ') }}
+        <p class="summary">{{$categoryDescription}}
+        </p>
+        {{ end }}
+    </header>
+    <section id="list" class="grid">
+        {{ $allposts := .Pages }}
+        {{ $notunlisted := where .RegularPages ".Params.unlisted" "!=" "true" }} 
+        {{ $posts := $allposts | intersect $notunlisted }}
+        {{ $paginator := .Paginate $posts }}
+        {{ range $paginator.Pages }} {{ partial "article-list/default" . }} {{ end }}
+    </section>
+    {{ if gt $paginator.TotalPages 1}} {{ partial "pagination" . }} {{ end }}
+</main>
+{{ end }}

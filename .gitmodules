@@ -1,0 +1,6 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "solar_v2"]
+	path = solar_v2
+	url = https://github.com/lowtechmag/solar_v2

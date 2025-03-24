@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>May Freigang Polski</title>
+    <link>http://localhost:1313/pl/</link>
+    <description>Ta strona zasilana jest energią słoneczną co oznacza, że czasami może być niedostępna.</description>
+    <generator>Hugo 0.145.0</generator>
+    <language>pl</language><atom:link href="http://localhost:1313/pl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archiwum</title>
+      <link>http://localhost:1313/pl/archives/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pl/archives/</guid>
+      <description>&lt;p&gt;Archive page content&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Power</title>
+      <link>http://localhost:1313/pl/power/</link>
+      
+      <enclosure url="" type="image/png" length="352" ></enclosure>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pl/power/</guid>
+      <description>&lt;h2 id=&#34;power-supply&#34;&gt;Power supply&lt;/h2&gt;
+&lt;p&gt;This is a forecast for the coming days, updated daily:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;This weather forecast is &lt;a href=&#34;https://brightsky.dev/&#34; target=&#34;_blank&#34; &gt;powered by BrightSky&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;power-demand&#34;&gt;Power demand&lt;/h2&gt;
+&lt;p&gt;These are live power statistics of the solar powered server:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;(* load average per 15 minutes)&lt;/p&gt;
+&lt;h2 id=&#34;battery-meter&#34;&gt;Battery meter&lt;/h2&gt;
+&lt;p&gt;The background of this website is a battery meter, designed to always display the relationship of the energy powering the website and the visitor traffic consuming it. Since 12 January 2020, the website runs on a 30W solar panel and a 168 Wh lead-acid battery.&lt;/p&gt;
+&lt;p&gt;We also installed a new battery meter, which simply represents the voltage of our battery. For example, a storage capacity of 68% converts to 12.68V, and the other way around. Showing a correct representation of the storage capacity requires calibration and algorithms in relation to a specific battery. This is troublesome, because we &lt;a href=&#34;&#34; &gt;keep experimenting with different sizes of batteries and solar panels&lt;/a&gt; to find the optimal balance between uptime and sustainability.&lt;/p&gt;
+&lt;p&gt;The voltage reading is the &amp;ldquo;naked&amp;rdquo; data on which each battery meter relies to display a percentage. The voltage of the battery doesn&amp;rsquo;t always correlate with the energy storage capacity &amp;ndash; it&amp;rsquo;s also influenced by the electric load (which lowers the voltage) and the solar insolation (which increases the voltage).&lt;/p&gt;
+&lt;p&gt;Because our load (the server) has a rather constant power use, during the day our battery meter reflects the local solar conditions. If the panel receives full sun, the voltage will most likely raise above 13V, colouring the whole website in yellow. However, if it&amp;rsquo;s cloudy enough, the battery meter will decrease and the blue background is revealed.&lt;/p&gt;
+&lt;p&gt;Because our load is constant, during the night the battery meter reflects the storage capacity of the battery accurately. When the voltage of the battery drops below 12V, and the whole page is coloured in blue, the solar charge controller shuts down the system and the website goes offline.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

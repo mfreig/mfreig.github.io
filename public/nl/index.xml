@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>May Freigang Nederlands</title>
+    <link>http://localhost:1313/nl/</link>
+    <description>Deze website draait op zonne-energie, wat betekent dat ze af en toe uit de lucht gaat</description>
+    <generator>Hugo 0.145.0</generator>
+    <language>nl</language><atom:link href="http://localhost:1313/nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archief</title>
+      <link>http://localhost:1313/nl/archives/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/nl/archives/</guid>
+      <description>&lt;p&gt;Archive page content&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contributors</title>
+      <link>http://localhost:1313/nl/contributors/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/nl/contributors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energie</title>
+      <link>http://localhost:1313/nl/power/</link>
+      
+      <enclosure url="" type="image/png" length="352" ></enclosure>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/nl/power/</guid>
+      <description>&lt;h2 id=&#34;energieproductie&#34;&gt;Energieproductie&lt;/h2&gt;
+&lt;p&gt;Dit is de lokale weersverwachting voor de komende dagen (dagelijkse update):&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Dit weerbericht &lt;a href=&#34;https://brightsky.dev/&#34; target=&#34;_blank&#34; &gt;powered by BrightSky&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;energievraag&#34;&gt;Energievraag&lt;/h2&gt;
+&lt;p&gt;Dit zijn de data die door de server worden geregistreerd:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;(* gemiddelde per 15 minuten)&lt;/p&gt;
+&lt;h2 id=&#34;energieopslag&#34;&gt;Energieopslag&lt;/h2&gt;
+&lt;p&gt;De achtergrond van deze website is een batterijmeter, die aangeeft over hoeveel energieopslag de zonne-installatie beschikt. Sinds 12 januari 2020 draait de website op haar huidige configuratie: een zonnepaneel van 30W en een loodzuurbatterij van 168 watt-uur.&lt;/p&gt;
+&lt;p&gt;De batterijmeter toont het voltage van de batterij. Bijvoorbeeld een opslagcapaciteit van 68% komt overeen met een voltage van 12.68 volt. Het voltage komt echter niet altijd overeen met de capaciteit van de energieopslag.&lt;/p&gt;
+&lt;p&gt;De elektrische lading van de server (die het voltage van de batterij verlaagt) kan makkelijk worden ingecalculeerd omdat het elektriciteitsverbruik van de server vrijwel constant is. Maar de zonnestraling (die het voltage van de batterij doet toenemen) is daarentegen heel veranderlijk.&lt;/p&gt;
+&lt;p&gt;Tijdens de nacht reflecteert het voltage accuraat de opslagcapaciteit van de batterij: de batterijmeter is dan heel precies en zal langzaam zakken. Overdag weerspiegelt de batterijmeter de lokale weersomstandigheden. Als het zonnepaneel volle zon ontvangt, stijgt het voltage boven de 13 volt en wordt de hele website in het geel gekleurd. Als het bewolkt genoeg is, dan zakt de batterijmeter en wordt de blauwe achtergrond onthuld. Als het voltage van de batterij onder de 12V zakt, en de hele pagina in het blauw is gekleurd, sluit de zonneregelaar het systeem af en gaat de website offline. Ze komt weer online als de zon opnieuw schijnt.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Niet gevonden</title>
+      <link>http://localhost:1313/nl/404/</link>
+      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/nl/404/</guid>
+      <description>&lt;p&gt;We zijn nog bezig met het overzetten van posts en wellicht is deze link nog niet overgezet of vertaald.&lt;/p&gt;
+&lt;p&gt;Raadpleeg het &lt;a href=&#34;http://localhost:1313/nl/archives/&#34; &gt;archief&lt;/a&gt; om snel artikelen te kunnen terugvinden.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
