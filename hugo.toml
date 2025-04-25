@@ -1,4 +1,4 @@
-baseURL = 'https://mfreig.github.io/may/'
+baseURL = 'https://mfreig.github.io/'
 languageCode = 'en-us'
 title = "blog it like it's 2005"
 theme = 'solar_v2'
