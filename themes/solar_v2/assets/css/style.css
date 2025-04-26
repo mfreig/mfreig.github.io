@@ -259,7 +259,7 @@ nav#menu > ul li:first-child::before, nav#menu > ul li:last-child::before {
   content: "";
 }
 nav .category {
-  margin: 0;
+  margin: 0 3;
   display: inline-block;
 }
 nav .icon {
