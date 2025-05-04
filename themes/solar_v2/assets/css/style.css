@@ -259,7 +259,7 @@ nav#menu > ul li {
   display: inline-block;
 }
 nav#menu > ul li::before {
-  content: "  | ";
+  content: "  | ";
   margin: auto;
 }
 nav#menu > ul li:first-child::before, nav#menu > ul li:last-child::before {

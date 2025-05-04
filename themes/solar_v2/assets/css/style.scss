@@ -288,7 +288,7 @@ nav {
         li {
             display: inline-block;
             &::before {
-                content: "  | ";
+                content: "\00a0  | ";
                 margin: auto;
             }
             &:first-child::before, &:last-child::before{
