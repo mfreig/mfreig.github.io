@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /*
 	Theme Name: Solar
-	Theme URI: 
+	Theme URI:
 	Description: Solar is a Hugo theme designed for https://solar.lowtechmagazine.com. It is an attempt to radically reduce the energy use the associated with accessing our content.
 	Version: 2.0
 	Author: Marie Otsuka, Roel Roscam Abbing
@@ -12,17 +12,18 @@
 :root {
   --color-primary: black;
   --color-sky: white;
-  --color-sub: white;
+  --color-sub: rgb(130 130 130); /* for a:hover */
   --color-bg: white;
-  --color-low: #162dab; /* category 1 */
-  --color-high: #d11305; /* category 2 */
-  --color-obs: #006951; /* category 3 */
+  --color-low: #ff0080;
+  --color-high: #00aaff;
+  --color-obs: #006951;
   --pad-small: 0.25rem;
-  --pad: 0.5rem;
+  --pad: .5rem;
   --pad-large: 1rem;
   --pad-xlarge: 2rem;
   --pad-section: 3rem;
-  --monospace: "Courier", "Courier New", monospace;
+  --monospace: "Space Mono", "Roboto Mono", "Courier", "Courier New", monospace;
+  --main-font: "Tiny Grotesk", "Aktiv Grotesk", "Akzidenz Grotesk", "Helvetica", sans-serif;
   --font-xlarge: 2.5rem;
   --font-large: 2rem;
   --font-medium: 1.4rem;
@@ -50,6 +51,7 @@
 }
 
 html {
+  font-family: var(--main-font);
   font-size: 20px;
 }
 
@@ -111,7 +113,7 @@ main {
 
 main,
 footer {
-  border-top: 2px solid var(--color-primary);
+  border-top: 0px solid var(--color-primary);
 }
 
 .site-header a,
@@ -120,8 +122,12 @@ footer {
   padding-bottom: 0;
 }
 
+.site-header {
+  padding-bottom: 1rem;
+}
 .site-header h1 {
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
+  padding-bottom: 1rem;
 }
 
 /*---------------------
@@ -217,15 +223,15 @@ a:hover .icon {
 /*-----------
 CATEGORY COLORS
 -----------*/
-[data-nav=low-tech-solutions],
-li.low-tech-solutions .category,
-#low-tech-solutions header h1 {
+[data-nav=garden],
+li.garden .category,
+#garden header h1 {
   color: var(--color-low);
 }
 
-[data-nav=high-tech-problems],
-li.high-tech-problems .category,
-#high-tech-problems header h1 {
+[data-nav=recipes],
+li.recipes .category,
+#recipes header h1 {
   color: var(--color-high);
 }
 
@@ -253,7 +259,8 @@ nav#menu > ul li {
   display: inline-block;
 }
 nav#menu > ul li::before {
-  content: " | ";
+  content: "  | ";
+  margin: auto;
 }
 nav#menu > ul li:first-child::before, nav#menu > ul li:last-child::before {
   content: "";
@@ -585,10 +592,12 @@ ARTICLE TYPOGRAPHY
   margin: var(--pad-large) 0 var(--pad) 0;
 }
 
+.site-header,
+.site-footer,
 .entry-header,
 figure,
 .figure-controls {
-  max-width: var(--max-img-width);
+  max-width: var(--max-content-width);
   margin: auto;
 }
 
@@ -818,7 +827,7 @@ POST FOOTER
 
 .post-footer {
   margin-top: var(--pad-xlarge);
-  border-top: 2px solid black;
+  border-top: 0px solid black;
   padding-top: var(--pad-large);
 }
 .post-footer li {
@@ -1209,10 +1218,8 @@ Global Responsive Styles
     margin-bottom: 1rem;
   }
   .entry-content {
-    -moz-columns: 2;
-         columns: 2;
-    -moz-column-gap: 20pt;
-         column-gap: 20pt;
+    columns: 2;
+    column-gap: 20pt;
   }
   .entry-content a {
     text-decoration: none;
@@ -1267,4 +1274,6 @@ Global Responsive Styles
   ul.cols li {
     max-width: 50%;
   }
-}/*# sourceMappingURL=style.css.map */
+}
+
+/*# sourceMappingURL=style.css.map */

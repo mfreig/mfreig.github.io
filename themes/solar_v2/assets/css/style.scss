@@ -1,6 +1,6 @@
 /*
 	Theme Name: Solar
-	Theme URI: 
+	Theme URI:
 	Description: Solar is a Hugo theme designed for https://solar.lowtechmagazine.com. It is an attempt to radically reduce the energy use the associated with accessing our content.
 	Version: 2.0
 	Author: Marie Otsuka, Roel Roscam Abbing
@@ -33,7 +33,7 @@
     --color-primary: black;
     --color-sky: white;
     --color-sub: rgb(130 130 130); /* for a:hover */
-    --color-bg: white; 
+    --color-bg: white;
     --color-low: #ff0080;
     --color-high: #00aaff;
     --color-obs: #006951;
@@ -288,8 +288,8 @@ nav {
         li {
             display: inline-block;
             &::before {
-                content: " | ";
-		padding:0 10px;
+                content: "  | ";
+                margin: auto;
             }
             &:first-child::before, &:last-child::before{
                 content: "";
@@ -298,7 +298,6 @@ nav {
     }
     .category {
         margin: 0 3;
-	padding-right: var(--pad-small);
         display: inline-block;
     }
     .icon {
@@ -306,7 +305,7 @@ nav {
     }
     width: 100%;
     position: relative;
-    
+
 
     .rss{
         margin-left: var(--pad-small);
@@ -442,14 +441,14 @@ METADATA, BYLINES
     a {
         color: var(--color-sub);
     }
-   
+
     .byline, .author{
         @include media(mobile) {
-            display: block; 
-            line-height: 1.4;      
-        }        
+            display: block;
+            line-height: 1.4;
+        }
     }
-   
+
 
 }
 
@@ -748,7 +747,7 @@ figure,
         margin-top: var(--pad-small);
         p {
             display: inline;
-        }    
+        }
         li{
             margin-bottom: 0;
         }
