@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog it like it&#39;s 2005 </title>
-    <link>http://localhost:1313/</link>
+    <link>https://mfreig.github.io/</link>
     <description>this is may&#39;s blog and it uses minimal energy!</description>
     <generator>Hugo 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mfreig.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://mfreig.github.io/posts/my-first-post/</link>
       
-      <enclosure url="http://localhost:1313/posts/my-first-post/images/dithers/test_dithered.png" type="image/png" length="8604" ></enclosure>
+      <enclosure url="https://mfreig.github.io/posts/my-first-post/images/dithers/test_dithered.png" type="image/png" length="8604" ></enclosure>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://mfreig.github.io/posts/my-first-post/</guid>
       <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 
 &lt;div class=&#34;article-img  vertical&#34;&gt;
 &lt;figure data-imgstate=&#34;dither&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/posts/my-first-post/images/dithers/test_dithered.png&#34; alt=&#39;Una borsa d’acqua calda giapponese detta yutampo, fatta di plastica rigida. Fonte: All About Japan. https://allabout-japan.com/en/article/6244/&#39; loading=&#34;lazy&#34;/&gt;&lt;/figure&gt;
+&lt;img src=&#34;https://mfreig.github.io/posts/my-first-post/images/dithers/test_dithered.png&#34; alt=&#39;Una borsa d’acqua calda giapponese detta yutampo, fatta di plastica rigida. Fonte: All About Japan. https://allabout-japan.com/en/article/6244/&#39; loading=&#34;lazy&#34;/&gt;&lt;/figure&gt;
 &lt;figcaption class=&#34;caption&#34;&gt;
  Una borsa d’acqua calda giapponese detta yutampo, fatta di plastica rigida. Fonte: All About Japan. [https://allabout-japan.com/en/article/6244/](https://allabout-japan.com/en/article/6244/) 
 &lt;/figcaption&gt;
@@ -31,112 +31,112 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/_index.ar/</link>
-      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://mfreig.github.io/_index.ar/</link>
+      <enclosure url="https://mfreig.github.io/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/_index.ar/</guid>
+      <guid>https://mfreig.github.io/_index.ar/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/_index.de/</link>
-      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://mfreig.github.io/_index.de/</link>
+      <enclosure url="https://mfreig.github.io/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/_index.de/</guid>
+      <guid>https://mfreig.github.io/_index.de/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/_index.es/</link>
-      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://mfreig.github.io/_index.es/</link>
+      <enclosure url="https://mfreig.github.io/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/_index.es/</guid>
+      <guid>https://mfreig.github.io/_index.es/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/_index.fr/</link>
-      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://mfreig.github.io/_index.fr/</link>
+      <enclosure url="https://mfreig.github.io/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/_index.fr/</guid>
+      <guid>https://mfreig.github.io/_index.fr/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/_index.it/</link>
-      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://mfreig.github.io/_index.it/</link>
+      <enclosure url="https://mfreig.github.io/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/_index.it/</guid>
+      <guid>https://mfreig.github.io/_index.it/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/_index.ko/</link>
-      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://mfreig.github.io/_index.ko/</link>
+      <enclosure url="https://mfreig.github.io/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/_index.ko/</guid>
+      <guid>https://mfreig.github.io/_index.ko/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/_index.nl/</link>
-      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://mfreig.github.io/_index.nl/</link>
+      <enclosure url="https://mfreig.github.io/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/_index.nl/</guid>
+      <guid>https://mfreig.github.io/_index.nl/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/_index.pl/</link>
-      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://mfreig.github.io/_index.pl/</link>
+      <enclosure url="https://mfreig.github.io/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/_index.pl/</guid>
+      <guid>https://mfreig.github.io/_index.pl/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/_index.pt/</link>
-      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://mfreig.github.io/_index.pt/</link>
+      <enclosure url="https://mfreig.github.io/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/_index.pt/</guid>
+      <guid>https://mfreig.github.io/_index.pt/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/_index.vn/</link>
-      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://mfreig.github.io/_index.vn/</link>
+      <enclosure url="https://mfreig.github.io/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/_index.vn/</guid>
+      <guid>https://mfreig.github.io/_index.vn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Archive</title>
-      <link>http://localhost:1313/archives/</link>
-      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://mfreig.github.io/archives/</link>
+      <enclosure url="https://mfreig.github.io/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/archives/</guid>
+      <guid>https://mfreig.github.io/archives/</guid>
       <description>&lt;p&gt;Archive page content&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Article Template: How to write articles and translations in Markdown for Hugo?</title>
-      <link>http://localhost:1313/article-template-how-to/</link>
+      <link>https://mfreig.github.io/article-template-how-to/</link>
       
       <enclosure url="" type="image/png" length="160" ></enclosure>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/article-template-how-to/</guid>
+      <guid>https://mfreig.github.io/article-template-how-to/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;A screenshot of the markdown file for this page.&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -324,7 +324,7 @@ To add a different language translations changes in the config file are necessar
 &lt;li&gt;We don&amp;rsquo;t need to change the url when translating an article, it&amp;rsquo;s automatic: see &lt;a href=&#34;#translations-internal-links&#34; &gt;translations section&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Shortcode is written as follow and looks like this:&lt;/em&gt; &lt;a href=&#34;http://localhost:1313/&#34; &gt;Text&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Shortcode is written as follow and looks like this:&lt;/em&gt; &lt;a href=&#34;https://mfreig.github.io/&#34; &gt;Text&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;Text&lt;/span&gt;]({{&amp;lt; &lt;span style=&#34;color:#a6e22e&#34;&gt;ref&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/path-to-folder&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;/*&lt;/span&gt;&amp;gt;}})
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The file path should start from within the content folder and link to the article or page folder, not the slug!&lt;/p&gt;
@@ -395,7 +395,7 @@ The file should start with the following lines:&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;---
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;translations-internal-links&#34;&gt;&lt;strong&gt;Internal Links&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;When linking to articles on the website, the shortcode will handle directing to the correct translation automatically:&lt;/p&gt;
-&lt;p&gt;On a french article &lt;code&gt;index.fr.md&lt;/code&gt; the link will redirect to the french &lt;a href=&#34;http://localhost:1313/fr/donate&#34; &gt;donate&lt;/a&gt; page.&lt;/p&gt;
+&lt;p&gt;On a french article &lt;code&gt;index.fr.md&lt;/code&gt; the link will redirect to the french &lt;a href=&#34;https://mfreig.github.io/fr/donate&#34; &gt;donate&lt;/a&gt; page.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;Donate&lt;/span&gt;]({{&amp;lt; &lt;span style=&#34;color:#a6e22e&#34;&gt;ref&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/donate&amp;#34;&lt;/span&gt; &amp;gt;}})
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Another example: this article &lt;a href=&#34;&#34; &gt;Bring back the Horses&lt;/a&gt;  isn&amp;rsquo;t yet available in dutch. The shortcode below in a `index.nl.md_ file would lead to the english version, until the dutch translation is available:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[&lt;span style=&#34;color:#a6e22e&#34;&gt;Bring&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;back&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;the&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;Horses&lt;/span&gt;]({{&amp;lt; &lt;span style=&#34;color:#a6e22e&#34;&gt;ref&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;/posts/bring-back-the-horses&amp;#34;&lt;/span&gt; &amp;gt;}})
@@ -432,86 +432,86 @@ The file should start with the following lines:&lt;/p&gt;
     
     <item>
       <title>Contributors</title>
-      <link>http://localhost:1313/contributors/</link>
-      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://mfreig.github.io/contributors/</link>
+      <enclosure url="https://mfreig.github.io/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/contributors/</guid>
+      <guid>https://mfreig.github.io/contributors/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feeds</title>
-      <link>http://localhost:1313/feeds/</link>
-      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://mfreig.github.io/feeds/</link>
+      <enclosure url="https://mfreig.github.io/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/feeds/</guid>
+      <guid>https://mfreig.github.io/feeds/</guid>
       <description>&lt;p&gt;We provide multiple feeds for feed readers. There is one feed for each language.&lt;/p&gt;
 &lt;h2 id=&#34;arabic&#34;&gt;Arabic&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/ar/posts/index.xml&#34; &gt;Arabic full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mfreig.github.io/ar/posts/index.xml&#34; &gt;Arabic full feed (RSS)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;dutch&#34;&gt;Dutch&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nl/posts/index.xml&#34; &gt;Dutch full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mfreig.github.io/nl/posts/index.xml&#34; &gt;Dutch full feed (RSS)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;english&#34;&gt;English&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/posts/index.xml&#34; &gt;English full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mfreig.github.io/posts/index.xml&#34; &gt;English full feed (RSS)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;french&#34;&gt;French&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/fr/posts/index.xml&#34; &gt;French full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mfreig.github.io/fr/posts/index.xml&#34; &gt;French full feed (RSS)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;german&#34;&gt;German&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/de/posts/index.xml&#34; &gt;German full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mfreig.github.io/de/posts/index.xml&#34; &gt;German full feed (RSS)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;italian&#34;&gt;Italian&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/it/posts/index.xml&#34; &gt;Italian full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mfreig.github.io/it/posts/index.xml&#34; &gt;Italian full feed (RSS)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;korean&#34;&gt;Korean&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/ko/posts/index.xml&#34; &gt;Korean full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mfreig.github.io/ko/posts/index.xml&#34; &gt;Korean full feed (RSS)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;polish&#34;&gt;Polish&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pl/posts/index.xml&#34; &gt;Polish full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mfreig.github.io/pl/posts/index.xml&#34; &gt;Polish full feed (RSS)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;portuguese&#34;&gt;Portuguese&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/pt/posts/index.xml&#34; &gt;Portuguese full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mfreig.github.io/pt/posts/index.xml&#34; &gt;Portuguese full feed (RSS)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;spanish&#34;&gt;Spanish&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/es/posts/index.xml&#34; &gt;Spanish full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mfreig.github.io/es/posts/index.xml&#34; &gt;Spanish full feed (RSS)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;vietnamese&#34;&gt;Vietnamese&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://localhost:1313/vn/posts/index.xml&#34; &gt;Vietnamese full feed (RSS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mfreig.github.io/vn/posts/index.xml&#34; &gt;Vietnamese full feed (RSS)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Not Found</title>
-      <link>http://localhost:1313/404/</link>
-      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://mfreig.github.io/404/</link>
+      <enclosure url="https://mfreig.github.io/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/404/</guid>
+      <guid>https://mfreig.github.io/404/</guid>
       <description>&lt;p&gt;It seems that something went wrong&amp;hellip;. Some posts may have been moved and this link has not been updated yet. Or maybe this article isn&amp;rsquo;t yet translated?&lt;/p&gt;
-&lt;p&gt;Please consult our &lt;a href=&#34;http://localhost:1313/archives/&#34; &gt;archives&lt;/a&gt; to quickly find back all content.&lt;/p&gt;
+&lt;p&gt;Please consult our &lt;a href=&#34;https://mfreig.github.io/archives/&#34; &gt;archives&lt;/a&gt; to quickly find back all content.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Power</title>
-      <link>http://localhost:1313/power/</link>
+      <link>https://mfreig.github.io/power/</link>
       
       <enclosure url="" type="image/png" length="160" ></enclosure>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/power/</guid>
+      <guid>https://mfreig.github.io/power/</guid>
       <description>&lt;p&gt;The site is statically generated, so every page is a simple html file that I generate whenever I update the site. Images are dithered with &lt;a href=&#34;https://github.com/hbldh/hitherdither&#34; target=&#34;_blank&#34; &gt;hitherdither&lt;/a&gt; to save space &amp;amp; power, you can choose to view the full image by clicking on the little icon in the caption.&lt;/p&gt;
 &lt;p&gt;The original Low Tech Magazine runs on solar power and is on- or offline depending its battery load! &lt;a href=&#34;https://lowtechmagazine.com&#34; target=&#34;_blank&#34; &gt;Go check it out!&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This website looks best in &lt;a href=&#34;https://tinytype.co/type/tiny-grotesk&#34; target=&#34;_blank&#34; &gt;Tiny Grotesk&lt;/a&gt; by Robin Mientjes. I haven&amp;rsquo;t included it to save energy but you should totally consider buying it!&lt;/p&gt;
@@ -520,10 +520,10 @@ The file should start with the following lines:&lt;/p&gt;
     
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/privacy/</link>
-      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://mfreig.github.io/privacy/</link>
+      <enclosure url="https://mfreig.github.io/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/privacy/</guid>
+      <guid>https://mfreig.github.io/privacy/</guid>
       <description>&lt;p&gt;Example of server logs below:&lt;/p&gt;
 &lt;p&gt;109.69.14.162 - - [13/Sep/2018:01:59:35 +0200] &amp;ldquo;GET
 /dithers/heated-sock.png HTTP/2.0&amp;rdquo; 200 30190
@@ -550,10 +550,10 @@ Chrome/65.0.3325.183 Safari/537.36 Vivaldi/1.96.1147.55&amp;rdquo;&lt;/p&gt;
     
     <item>
       <title>Translators</title>
-      <link>http://localhost:1313/translators/</link>
-      <enclosure url="http://localhost:1313/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>https://mfreig.github.io/translators/</link>
+      <enclosure url="https://mfreig.github.io/icons/sun.svg }}" type="image/png" length=""></enclosure><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/translators/</guid>
+      <guid>https://mfreig.github.io/translators/</guid>
       <description></description>
     </item>
     

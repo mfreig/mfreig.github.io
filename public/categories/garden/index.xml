@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog it like it&#39;s 2005 </title>
-    <link>http://localhost:1313/categories/garden/</link>
+    <link>https://mfreig.github.io/categories/garden/</link>
     <description>this is may&#39;s blog and it uses minimal energy!</description>
     <generator>Hugo 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/garden/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mfreig.github.io/categories/garden/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://mfreig.github.io/posts/my-first-post/</link>
       
-      <enclosure url="http://localhost:1313/posts/my-first-post/images/dithers/test_dithered.png" type="image/png" length="8604" ></enclosure>
+      <enclosure url="https://mfreig.github.io/posts/my-first-post/images/dithers/test_dithered.png" type="image/png" length="8604" ></enclosure>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://mfreig.github.io/posts/my-first-post/</guid>
       <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 
 &lt;div class=&#34;article-img  vertical&#34;&gt;
 &lt;figure data-imgstate=&#34;dither&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/posts/my-first-post/images/dithers/test_dithered.png&#34; alt=&#39;Una borsa d’acqua calda giapponese detta yutampo, fatta di plastica rigida. Fonte: All About Japan. https://allabout-japan.com/en/article/6244/&#39; loading=&#34;lazy&#34;/&gt;&lt;/figure&gt;
+&lt;img src=&#34;https://mfreig.github.io/posts/my-first-post/images/dithers/test_dithered.png&#34; alt=&#39;Una borsa d’acqua calda giapponese detta yutampo, fatta di plastica rigida. Fonte: All About Japan. https://allabout-japan.com/en/article/6244/&#39; loading=&#34;lazy&#34;/&gt;&lt;/figure&gt;
 &lt;figcaption class=&#34;caption&#34;&gt;
  Una borsa d’acqua calda giapponese detta yutampo, fatta di plastica rigida. Fonte: All About Japan. [https://allabout-japan.com/en/article/6244/](https://allabout-japan.com/en/article/6244/) 
 &lt;/figcaption&gt;
